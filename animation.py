@@ -1,3 +1,5 @@
+# This code was done by following a Youtube video: https://www.youtube.com/watch?v=JavJqJHLo_M
+
 import os, time
 
 os.system('cls')
