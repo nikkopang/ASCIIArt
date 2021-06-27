@@ -13,5 +13,5 @@ for name in fileNames:
 for i in range(10):
 	for frame in frames:
 		print("".join(frame))
-		time.sleep(0.1)
+		time.sleep(0.05)
 		os.system('cls')
